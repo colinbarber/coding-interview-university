@@ -344,7 +344,7 @@ OR:
     - see my book report on the Python version below. This book covers the same topics.
 
 ### Python
-
+1.4
 - [-] [Data Structures and Algorithms in Python](https://www.amazon.com/Structures-Algorithms-Python-Michael-Goodrich/dp/1118290275/)
     - by Goodrich, Tamassia, Goldwasser
     - I loved this book. It covered everything and more.
